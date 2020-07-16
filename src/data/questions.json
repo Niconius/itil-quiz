@@ -580,7 +580,7 @@
         "answers": [
             {"answer": "Dateneingabe in eine Datenbank durch Anwender", "correct": false},
             {"answer": "Änderung eines Kennworts", "correct": false},
-            {"answer": "Hinzufügen eines neuen Anwenders in ein System", "correct": false},
+            {"answer": "Hinzufügen eines neuen Anwenders in ein System", "correct": true},
             {"answer": "Umzug eines Druckers", "correct": false}
         ]
     },
@@ -717,6 +717,366 @@
             {"answer": "Organisation der Verwaltung der IT-Infrastruktur gemäß den Methoden in der IT Infrastructure Library", "correct": true},
             {"answer": "Prozessorientierte Verwaltung der IT-Infrastruktur, so dass die IT-Organisation dem Kunden IT-Produkte auf professionelle Art und Weise liefern kann", "correct": false},
             {"answer": "Verständnis für die IT-Services einer größeren Öffentlichkeit zugänglich machen und fördern", "correct": false}
+        ]
+    },
+    {
+        "question": "Welchen Effekt hat die zunehmende Automatisierung auf die „Service Desk Practice“?",
+        "answers": [
+            {"answer": "Die Möglichkeit, sich besser auf die Kundenerfahrung zu konzentrieren, wenn persönlicher Kontakt erforderlich ist", "correct": true},
+            {"answer": "Abnahme der Self-Service-Aktivitäten zur Incident-Erfassung und -Lösung", "correct": false},
+            {"answer": "Die Möglichkeit, sich besser auf die Behebung technischer Probleme zu konzentrieren, anstatt Personen weiterzuhelfen", "correct": false},
+            {"answer": "Incidents müssen nicht mehr an Support-Teams eskaliert werden", "correct": false}
+        ]
+    },
+    {
+        "question": "Welcher Begriff beschreibt die von einem Service angebotene Funktionalität?",
+        "answers": [
+            {"answer": "Kosten", "correct": false},
+            {"answer": "Utility", "correct": true},
+            {"answer": "Warranty", "correct": false},
+            {"answer": "Risiko", "correct": false}
+        ]
+    },
+    {
+        "question": "Was ist der Zweck der „Monitoring and Event Management Practice“?",
+        "answers": [
+            {"answer": "Sicherstellen, dass jederzeit und überall genaue und zuverlässige Informationen über die Konfiguration von Services verfügbar sind", "correct": false},
+            {"answer": "Systematisches Beobachten von Services und Servicekomponenten sowie Aufzeichnen und Erstellen von Berichten zu ausgewählten Statusänderungen", "correct": true},
+            {"answer": "Schützen der Informationen, die eine Organisation für ihre Geschäftstätigkeit benötigt", "correct": false},
+            {"answer": "Minimieren der negativen Auswirkung von Incidents, indem der normale Servicebetrieb schnellstmöglich wiederhergestellt wird", "correct": false}
+        ]
+    },
+    {
+        "question": "Worauf sollten alle Entscheidungen im Rahmen des „Continual Improvement“ basieren?",
+        "answers": [
+            {"answer": "Auf Details der Art und Weise, wie Services gemessen werden", "correct": false},
+            {"answer": "Auf genauen und sorgfältig analysierten Daten", "correct": true},
+            {"answer": "Auf einer aktuellen Balanced Scorecard", "correct": false},
+            {"answer": "Auf einer aktuellen Reifegradbewertung", "correct": false}
+        ]
+    },
+    {
+        "question": "Wie wandeln alle Wertschöpfungskettenaktivitäten Inputs in Outputs um?",
+        "answers": [
+            {"answer": "Durch die Ermittlung der Servicenachfrage", "correct": false},
+            {"answer": "Durch die Verwendung einer Kombination von Practices", "correct": true},
+            {"answer": "Durch die Verwendung eines einzelnen Funktionsteams", "correct": false},
+            {"answer": "Durch die Implementierung von Prozessautomatisierung", "correct": false}
+        ]
+    },
+    {
+        "question": "Wie trägt das Engagement der Kunden zur „Service Level Management Practice“ bei?",
+        "answers": [
+            {"answer": "1 und 2", "correct": false},
+            {"answer": "2 und 3", "correct": false},
+            {"answer": "3 und 4", "correct": false},
+            {"answer": "1 und 4", "correct": true}
+        ]
+    },
+    {
+        "question": "Was ist der Ausgangspunkt für Optimierung?",
+        "answers": [
+            {"answer": "Die Sicherung des Engagements der Stakeholder", "correct": false},
+            {"answer": "Das Verständnis der Vision und Ziele der Organisation", "correct": true},
+            {"answer": "Die Ermittlung der Elemente, bei denen die positiven Auswirkungen am größten sind", "correct": false},
+            {"answer": "Die Standardisierung von Practices und Services", "correct": false}
+        ]
+    },
+    {
+        "question": "Identifizieren Sie die fehlenden Wörter im folgenden Satz: Der Zweck des/der [?] ist sicherzustellen, dass die Organisation mit allen Stakeholdern entsprechend den Zielen der Organisation fortlaufend gemeinsamen Mehrwert schafft.",
+        "answers": [
+            {"answer": "Grundprinzips „Wertorientierung“", "correct": false},
+            {"answer": "vier Dimensionen des Service Management", "correct": false},
+            {"answer": "Servicewertsystems", "correct": true},
+            {"answer": "Service Request Management Practice", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Practice bietet Unterstützung für das Managen von Feedback, Lob und Beschwerden von Anwendern?",
+        "answers": [
+            {"answer": "Change Control", "correct": false},
+            {"answer": "Service Request Management", "correct": true},
+            {"answer": "Problem Management", "correct": false},
+            {"answer": "Incident Management", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche gemeinsame Aktivität, die von einem Service Provider und einem Servicekonsumenten durchgeführt wird, stellt eine kontinuierliche gemeinsame Schaffung von Mehrwert sicher?",
+        "answers": [
+            {"answer": "Servicebereitstellung", "correct": false},
+            {"answer": "Servicekonsum", "correct": false},
+            {"answer": "Serviceangebot", "correct": false},
+            {"answer": "Service Relationship Management", "correct": true}
+        ]
+    },
+    {
+        "question": "Welche Practice kann die Initiierung einer Notfallwiederherstellung umfassen?",
+        "answers": [
+            {"answer": "Incident Management", "correct": true},
+            {"answer": "Service Request Management", "correct": false},
+            {"answer": "Service Level Management", "correct": false},
+            {"answer": "IT Asset Management", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Art von Change wird am EHESTEN durch die „Service Request Management Practice“ gemanagt?",
+        "answers": [
+            {"answer": "Ein normaler Change", "correct": false},
+            {"answer": "Ein Notfall-Change", "correct": false},
+            {"answer": "Ein Standard-Change", "correct": true},
+            {"answer": "Ein Anwendungs-Change", "correct": false}
+        ]
+    },
+    {
+        "question": "Welches Grundprinzip betont, wie wichtig es ist, den Ablauf von Work in Progress zu verstehen, Engpässe zu identifizieren und Verschwendung aufzudecken?",
+        "answers": [
+            {"answer": "Wertorientierung", "correct": false},
+            {"answer": "Zusammenarbeiten und Transparenz fördern", "correct": true},
+            {"answer": "Ganzheitlich denken und arbeiten", "correct": false},
+            {"answer": "Auf Einfachheit und Praktikabilität achten", "correct": false}
+        ]
+    },
+    {
+        "question": "Was stellt eine Möglichkeit dar, gemeinsamen Mehrwert zu schaffen, indem das Erreichen der von Kunden angestrebten Ergebnisse erleichtert wird?",
+        "answers": [
+            {"answer": "Ein Service", "correct": true},
+            {"answer": "Ein Output", "correct": false},
+            {"answer": "Eine Practice", "correct": false},
+            {"answer": "Continual Improvement", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Aussage über Change-Autorisierung ist RICHTIG?",
+        "answers": [
+            {"answer": "Eine Change-Autorität sollte jeder Art von Change und Change-Modell zugewiesen werden", "correct": true},
+            {"answer": "Die Zentralisierung der Change-Autorisierung bei einer einzelnen Person stellt die effektivste Art der Autorisierung dar", "correct": false},
+            {"answer": "Die Autorisierung normaler Changes sollte beschleunigt werden, damit sie schnell implementiert werden können", "correct": false},
+            {"answer": "Standard-Changes sind mit hohen Risiken verbunden und sollten von der höchsten Change-Autoritätsebene autorisiert werden", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Dimension des Service Management bezieht sich auf Governance, Management und Kommunikation?",
+        "answers": [
+            {"answer": "Organisationen und Menschen", "correct": true},
+            {"answer": "Informationen und Technologie", "correct": false},
+            {"answer": "Partner und Lieferanten", "correct": false},
+            {"answer": "Wertströme und Prozesse", "correct": false}
+        ]
+    },
+    {
+        "question": "Identifizieren Sie das fehlende Wort im folgenden Satz: Ein Known Error ist ein Problem, das [?] und nicht gelöst wurde.",
+        "answers": [
+            {"answer": "erfasst", "correct": false},
+            {"answer": "analysiert", "correct": true},
+            {"answer": "eskaliert", "correct": false},
+            {"answer": "geschlossen", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Aussage über Known Errors und Probleme ist RICHTIG?",
+        "answers": [
+            {"answer": "Known Error ist der Status, der einem Problem zugewiesen wird, nachdem es analysiert wurde", "correct": true},
+            {"answer": "Ein Known Error ist der Grund für ein oder mehrere Probleme", "correct": false},
+            {"answer": "Known Errors verursachen Schwachstellen, Probleme verursachen Incidents", "correct": false},
+            {"answer": "Known Errors werden von technischen Mitarbeitern gemanagt, Probleme werden von Mitarbeitern im Service Management gemanagt", "correct": false}
+        ]
+    },
+    {
+        "question": "Wovon hängt die maximale Effizienz der „Service Request Management Practice“ ab?",
+        "answers": [
+            {"answer": "Lob und Beschwerden", "correct": false},
+            {"answer": "Self-Service-Tools", "correct": false},
+            {"answer": "Prozesse und Verfahren", "correct": true},
+            {"answer": "Incident Management", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Aussage über die „Service Desk Practice“ ist RICHTIG?",
+        "answers": [
+            {"answer": "Sie ermöglicht Beziehungen mit Stakeholdern auf strategischer und taktischer Ebene", "correct": false},
+            {"answer": "Sie führt die Change-Bewertung und -Autorisierung durch", "correct": false},
+            {"answer": "Sie untersucht die Ursache von Incidents", "correct": false},
+            {"answer": "Sie erfordert ein praktisches Verständnis der Geschäftsprozesse", "correct": true}
+        ]
+    },
+    {
+        "question": "Welche Practice stellt sicher, dass genaue und zuverlässige Informationen über Configuration Items (CI) und die Beziehungen zwischen diesen verfügbar sind?",
+        "answers": [
+            {"answer": "Service Configuration Management", "correct": true},
+            {"answer": "Service Desk", "correct": false},
+            {"answer": "IT Asset Management", "correct": false},
+            {"answer": "Monitoring and Event Management", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Practice hat einen Zweck, der die schnellstmögliche Wiederherstellung des normalen Servicebetriebs umfasst?",
+        "answers": [
+            {"answer": "Supplier Management", "correct": false},
+            {"answer": "Deployment Management", "correct": false},
+            {"answer": "Problem Management", "correct": false},
+            {"answer": "Incident Management", "correct": true}
+        ]
+    },
+    {
+        "question": "Identifizieren Sie das fehlende Wort im folgenden Satz: Ein Kunde ist eine Person, die die Anforderungen an einen Service definiert und die Verantwortung für die [?] des Servicekonsums übernimmt.",
+        "answers": [
+            {"answer": "Outputs", "correct": false},
+            {"answer": "Ergebnisse", "correct": true},
+            {"answer": "Kosten", "correct": false},
+            {"answer": "Risiken", "correct": false}
+        ]
+    },
+    {
+        "question": "Welches Grundprinzip besagt, dass es wichtig ist, etwas zu tun, anstatt viel Zeit auf die Analyse unterschiedlicher Optionen zu verwenden?",
+        "answers": [
+            {"answer": "Optimieren und automatisieren ", "correct": false},
+            {"answer": "Dort beginnen, wo man steht", "correct": false},
+            {"answer": "Wertorientierung", "correct": false},
+            {"answer": "Iterative Weiterentwicklung mit Feedback", "correct": true}
+        ]
+    },
+    {
+        "question": "Was sollte bei jedem Problem getan werden?",
+        "answers": [
+            {"answer": "Es sollte diagnostiziert werden, um mögliche Lösungen zu identifizieren", "correct": false},
+            {"answer": "Es sollte anhand der möglichen Auswirkungen und Wahrscheinlichkeit priorisiert werden", "correct": true},
+            {"answer": "Es sollte gelöst werden, damit es geschlossen werden kann", "correct": false},
+            {"answer": "Es sollte dafür einen Workaround (Umgehungslösung) geben, um die Auswirkungen zu reduzieren", "correct": false}
+        ]
+    },
+    {
+        "question": "Wie sollte eine Organisation Drittanbieter in die ständige Verbesserung von Services einbeziehen?",
+        "answers": [
+            {"answer": "Sicherstellen, dass Lieferanten Details zu ihrem Ansatz für die Verbesserung von Services in Verträge aufnehmen ", "correct": true},
+            {"answer": "Nachweise anfordern, dass der Lieferant Methoden der agilen Entwicklung verwendet", "correct": false},
+            {"answer": "Nachweise anfordern, dass der Lieferant alle Verbesserungen mithilfe von Project Management Practices implementiert", "correct": false},
+            {"answer": "Sicherstellen, dass alle Problemmanagementaktivitäten des Lieferanten zu Verbesserungen führen", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Überlegungen beeinflussen die Lieferantenstrategie einer Organisation?",
+        "answers": [
+            {"answer": "Verträge und Vereinbarungen", "correct": false},
+            {"answer": "Art der Zusammenarbeit mit Lieferanten", "correct": false},
+            {"answer": "Unternehmenskultur der Organisation", "correct": true},
+            {"answer": "Grad der Formalität", "correct": false}
+        ]
+    },
+    {
+        "question": "Was ist ein Problem?",
+        "answers": [
+            {"answer": "Eine Hinzufügung oder Modifikation, die einen Effekt auf Services haben könnte", "correct": false},
+            {"answer": "Jede Statusänderung, die für das Management eines Configuration Item (CI) von Bedeutung ist ", "correct": false},
+            {"answer": "Eine Ursache oder mögliche Ursache für einen oder mehrere Incidents", "correct": true},
+            {"answer": "Eine nicht geplante Qualitätsminderung eines Service", "correct": false}
+        ]
+    },
+    {
+        "question": "Welchen Zweck verfolgt die „Relationship Management Practice“?",
+        "answers": [
+            {"answer": "Anpassen der Practices und Services der Organisation an sich ändernde Geschäftsanforderungen", "correct": false},
+            {"answer": "Aufbauen und Pflegen der Verbindungen zwischen der Organisation und ihren Stakeholdern auf strategischer und taktischer Ebene", "correct": true},
+            {"answer": "Reduzieren der Wahrscheinlichkeit und der Auswirkung von Incidents durch die Identifizierung tatsächlicher und potenzieller Ursachen von Incidents und das Management von Workarounds und Known Errors", "correct": false},
+            {"answer": "Minimieren der negativen Auswirkung von Incidents, indem der normale Servicebetrieb schnellstmöglich wiederhergestellt wird", "correct": false}
+        ]
+    },
+    {
+        "question": "Was soll eine Organisation bei der Einführung und Anpassung von ITIL-Leitlinien unterstützen?",
+        "answers": [
+            {"answer": "Die vier Dimensionen des Service Management", "correct": false},
+            {"answer": "Die Grundprinzipien", "correct": true},
+            {"answer": "Die Service-Wertschöpfungskette", "correct": false},
+            {"answer": "Practices", "correct": false}
+        ]
+    },
+    {
+        "question": "Was ist ein Output?",
+        "answers": [
+            {"answer": "Eine Statusänderung, die für das Management eines Configuration Item (CI) von Bedeutung ist", "correct": false},
+            {"answer": "Ein mögliches Event, das zu einem Schaden oder Verlust führen könnte", "correct": false},
+            {"answer": "Ein Resultat für einen Stakeholder", "correct": false},
+            {"answer": "Etwas, das durch die Ausführung einer Aktivität geschaffen wird", "correct": true}
+        ]
+    },
+    {
+        "question": "Was ist der Grund für die Verwendung eines ausgeglichenen Satzes von Servicemessgrößen?",
+        "answers": [
+            {"answer": "Die Anzahl der Messgrößen, die gesammelt werden müssen, wird verringert", "correct": false},
+            {"answer": "Für jedes Serviceelement wird ein separater Bericht erstellt", "correct": false},
+            {"answer": "Es führt zu einer ergebnisbasierten Ansicht von Services", "correct": true},
+            {"answer": "Es erleichtert die automatische Sammlung von Messgrößen", "correct": false}
+        ]
+    },
+    {
+        "question": "Warum sollten Incidents priorisiert werden?",
+        "answers": [
+            {"answer": "Um einen automatischen Abgleich von Incidents mit Problemen oder Known Errors zu erleichtern", "correct": false},
+            {"answer": "Um zu ermitteln, an welches Support-Team der Incident eskaliert werden sollte", "correct": false},
+            {"answer": "Um sicherzustellen, dass Incidents mit den größten geschäftlichen Auswirkungen zuerst gelöst werden", "correct": true},
+            {"answer": "Um eine umfassende Zusammenarbeit innerhalb und zwischen Teams zu fördern", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Practice verfolgt einen Zweck, der die Unterstützung der Organisation bei der Maximierung des Mehrwerts, der Kontrolle der Kosten und dem Management von Risiken umfasst?",
+        "answers": [
+            {"answer": "Relationship Management", "correct": false},
+            {"answer": "IT Asset Management", "correct": true},
+            {"answer": "Release Management", "correct": false},
+            {"answer": "Service Desk", "correct": false}
+        ]
+    },
+    {
+        "question": "Warum sollten Service-Desk-Mitarbeiter wiederkehrende Schwierigkeiten aufdecken?",
+        "answers": [
+            {"answer": "Um das Identifizieren von Problemen zu erleichtern", "correct": true},
+            {"answer": "Um Incidents an das richtige Support-Team zu eskalieren", "correct": false},
+            {"answer": "Um eine effektive Bearbeitung von Service Requests (Serviceanfrage) sicherzustellen", "correct": false},
+            {"answer": " Um die richtige Change-Autorität einzubinden", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Wertschöpfungskettenaktivität kommuniziert den aktuellen Status aller vier Dimensionen des Service Management?",
+        "answers": [
+            {"answer": "Verbesserung", "correct": false},
+            {"answer": "Engagement", "correct": false},
+            {"answer": "Erhalten/Erstellen", "correct": false},
+            {"answer": "Planung", "correct": true}
+        ]
+    },
+    {
+        "question": "Welches Grundprinzip beschäftigt sich HAUPTSÄCHLICH mit dem Umsatz und dem Wachstum des Konsumenten?",
+        "answers": [
+            {"answer": "Auf Einfachheit und Praktikabilität achten", "correct": false},
+            {"answer": "Optimieren und automatisieren", "correct": false},
+            {"answer": "Iterative Weiterentwicklung mit Feedback", "correct": false},
+            {"answer": "Wertorientierung", "correct": true}
+        ]
+    },
+    {
+        "question": "Welche Practice ermöglicht die Transparenz der Services der Organisation, indem sie die Performance des Service erfasst und entsprechende Berichte erstellt?",
+        "answers": [
+            {"answer": "Service Desk", "correct": false},
+            {"answer": "Service Level Management", "correct": true},
+            {"answer": "Service Request Management", "correct": false},
+            {"answer": "Service Configuration Management", "correct": false}
+        ]
+    },
+    {
+        "question": "Was ist das BESTE Beispiel für einen Notfall-Change?",
+        "answers": [
+            {"answer": "Die Implementierung eines geplanten neuen Release einer Softwareanwendung", "correct": false},
+            {"answer": "Ein mit geringen Risiken verbundenes Computerupgrade, das als Service Request implementiert wird", "correct": false},
+            {"answer": "Die Implementierung eines Sicherheits-Patches in einer kritischen Softwareanwendung", "correct": true},
+            {"answer": "Eine geplante umfassende Hardware- und Softwareimplementierung", "correct": false}
+        ]
+    },
+    {
+        "question": "Welches Grundprinzip empfiehlt, den aktuellen Status zu bewerten und zu entscheiden, was wiederverwendet werden kann?",
+        "answers": [
+            {"answer": "Wertorientierung", "correct": false},
+            {"answer": "Dort beginnen, wo man steht", "correct": true},
+            {"answer": "Zusammenarbeiten und Transparenz fördern", "correct": false},
+            {"answer": "Iterative Weiterentwicklung mit Feedback", "correct": false}
         ]
     }
 ]
