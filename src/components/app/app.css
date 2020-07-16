@@ -1,0 +1,195 @@
+#rootContainer {
+    min-height: 100vh;
+}
+
+#rootContainer.light {
+    background-color: #f2f7fb;
+}
+
+#rootContainer.dark {
+    background-color: #0d152e;
+}
+
+#headerContainer {
+    color: white;
+    height: 77px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.light #headerContainer{
+    background-color: royalblue;
+}
+
+.dark #headerContainer{
+    background-color: #273F87;
+}
+
+#mainContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 4em;
+    padding-bottom: 3em;
+}
+
+#questionBlock {
+    font-size: larger;
+    box-shadow: 0 0 5px 0 rgba(43,43,43,.2), 0 11px 6px -7px rgba(43,43,43,.2);
+    width: -webkit-fill-available;
+    max-width: 700px;
+    transition: box-shadow 50ms;
+    padding: 1em 2em 1em 2em;
+    margin-bottom: 1em;
+    border-radius: 1rem;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.light #questionBlock{
+    background-color: white;
+}
+
+.dark #questionBlock{
+    background-color: #1b2a58;
+    color: white;
+}
+
+#question {
+    margin-bottom: 2em;
+    font-weight: 600;
+}
+
+.answer {
+    border-radius: 1rem;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+
+.light .correctAnswer {
+    background-color: lightgreen;
+}
+
+.dark .correctAnswer {
+    background-color: #008b64;
+}
+
+#questionBottom {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3em;
+    flex-flow: wrap-reverse;
+}
+
+#questionNumber {
+    color: grey;
+    font-size: smaller;
+    margin: 0;
+    padding-top: 1em;
+}
+
+#buttonContainer {
+    text-align: right;
+}
+
+button {
+    font-size: large;
+    color: #f2f7fb;
+    background-color: royalblue;
+    outline: 0;
+    border: 0;
+    border-radius: .5rem;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    box-shadow: 0 0 5px 0 rgba(43,43,43,.2), 0 11px 6px -7px rgba(43,43,43,.2);
+}
+
+.light button {
+    background-color: royalblue;
+}
+
+.dark button {
+    background-color: #273F87;
+}
+
+button:active {
+    background-color: rgb(52, 84, 181);
+    box-shadow: inset 0px 0px 5px rgba(43,43,43,.7);
+}
+
+#nextButton {
+    margin-left: 1em;
+    margin-top: 0.5em;
+}
+
+
+
+/* CSS for dark mode */
+/* https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8 */
+/* changed slider sices and small other stuff */
+.themeSwitchWrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1em;
+    margin-top: 1.5em;
+}
+
+.themeSwitchWrapper em {
+    margin-left: 10px;
+    font-size: 1rem;
+    color: grey;
+}
+
+.themeSwitch {
+    display: inline-block;
+    height: 30px;
+    position: relative;
+    width: 57px;
+}
+  
+.themeSwitch input {
+    display:none;
+}
+  
+.slider {
+    background-color: #ccc;
+    bottom: 0;
+    cursor: pointer;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transition: .4s;
+}
+  
+.slider:before {
+    background-color: #fff;
+    bottom: 3.98px;
+    content: "";
+    height: 23px;
+    left: 4px;
+    position: absolute;
+    transition: .4s;
+    width: 24.5px;
+}
+  
+input:checked + .slider {
+    background-color: #273F87;
+}
+
+input:checked + .slider:before {
+    transform: translateX(24px);
+}
+
+.slider.round {
+    border-radius: 31px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}

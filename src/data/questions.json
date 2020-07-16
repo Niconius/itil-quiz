@@ -1,0 +1,722 @@
+[
+    {
+        "question": "Welche Practice ist für die Bereitstellung von Komponenten in Live-Umgebungen verantwortlich?",
+        "answers": [
+            {"answer": "Change Control", "correct": false},
+            {"answer": "Release Management", "correct": false},
+            {"answer": "IT Asset Management", "correct": false},
+            {"answer": "Deployment Management", "correct": true}
+        ]
+    },
+    {
+        "question": "Welche Practice umfasst die Klassifizierung und Verantwortung für Fragen und Anfragen von Anwendern?",
+        "answers": [
+            {"answer": "Service Desk", "correct": true},
+            {"answer": "Incident Management", "correct": false},
+            {"answer": "Change Control", "correct": false},
+            {"answer": "Service Level Management", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Practice identifiziert Messgrößen, welche die Serviceerfahrung des Kunden widerspiegeln?",
+        "answers": [
+            {"answer": "Continual Improvement", "correct": false},
+            {"answer": "Service Desk", "correct": false},
+            {"answer": "Service Level Management", "correct": true},
+            {"answer": "Problem Management", "correct": false}
+        ]
+    },
+    {
+        "question": "Was ist die VORWIEGENDE Verwendung eines Change-Kalenders?",
+        "answers": [
+            {"answer": "Unterstützen des „Incident Management“ und der Verbesserungsplanung", "correct": false},
+            {"answer": "Managen von Notfall-Changes", "correct": false},
+            {"answer": "Planen von Changes und Beitragen zur Konfliktvermeidung", "correct": true},
+            {"answer": "Managen von Standard-Changes", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Dimension des Service Managements konzentriert sich auf Aktivitäten und deren Koordination?",
+        "answers": [
+            {"answer": "Organisationen und Menschen", "correct": false},
+            {"answer": "Informationen und Technologie", "correct": false},
+            {"answer": "Partner und Lieferanten", "correct": false},
+            {"answer": "Wertströme und Prozesse", "correct": true}
+        ]
+    },
+    {
+        "question": "Wie unterstützt die Kategorisierung von Incidents die „Incident Management Practice“?",
+        "answers": [
+            {"answer": "Sie erleichtert die Zuweisung des Incidents zum richtigen Supportbereich", "correct": true},
+            {"answer": "Sie legt die Priorität fest, die dem Incident zugewiesen wird", "correct": false},
+            {"answer": "Sie stellt sicher, dass Incidents innerhalb von Zeitfenstern gelöst werden, die mit dem Kunden vereinbart wurden", "correct": false},
+            {"answer": "Sie bestimmt, wie der Service Provider wahrgenommen wird", "correct": false}
+        ]
+    },
+    {
+        "question": "Identifizieren Sie das/die fehlende(n) Wort/Wörter im folgenden Satz: Ein Service ist eine Möglichkeit, gemeinsamen Mehrwert zu schaffen, indem das Erreichen der von Kunden angestrebten [?] erleichtert wird.",
+        "answers": [
+            {"answer": "Warranty", "correct": false},
+            {"answer": "Ergebnisse", "correct": true},
+            {"answer": "Utility", "correct": false},
+            {"answer": "Outputs", "correct": false}
+        ]
+    },
+    {
+        "question": "Was ist eine Empfehlung der „Continual Improvement Practice“?",
+        "answers": [
+            {"answer": "Zumindest ein kleines Team sollte sich für ein „Continual Improvement“ engagieren.", "correct": true},
+            {"answer": "Alle Verbesserungen sollten als mehrphasige Projekte gemanagt werden", "correct": false},
+            {"answer": "„Continual Improvement“ sollte von anderen Practices getrennt sein", "correct": false},
+            {"answer": "Externe Lieferanten sollten aus Verbesserungsinitiativen ausgeschlossen sein", "correct": false}
+        ]
+    },
+    {
+        "question": "Was ist ein möglicher Vorteil der Verwendung eines IT Service Management-Tools zur Unterstützung der „Incident Management Practice“?",
+        "answers": [
+            {"answer": "Es kann sicherstellen, dass die Ursache von Incidents in der vereinbarten Zeit ermittelt wird", "correct": false},
+            {"answer": "Es kann einen automatischen Abgleich von Incidents mit Problemen oder Known Errors ermöglichen", "correct": true},
+            {"answer": "Es kann sicherstellen, dass Lieferantenverträge auf die Anforderungen des Service Providers abgestimmt sind", "correct": false},
+            {"answer": "Es kann die automatisierte Lösung und Schließung komplexer Incidents ermöglichen", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Rolle übermittelt Service Requests?",
+        "answers": [
+            {"answer": "Der Anwender oder dessen autorisierter Vertreter", "correct": true},
+            {"answer": "Der Kunde oder dessen autorisierter Vertreter", "correct": false},
+            {"answer": "Der Sponsor oder dessen autorisierter Vertreter", "correct": false},
+            {"answer": "Der Lieferant oder dessen autorisierter Vertreter", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Practice stellt einen Single Point of Contact für Anwender bereit?",
+        "answers": [
+            {"answer": "Incident Management", "correct": false},
+            {"answer": "Change Control", "correct": false},
+            {"answer": "Service Desk", "correct": true},
+            {"answer": "Service Request Management", "correct": false}
+        ]
+    },
+    {
+        "question": "Welches Grundprinzip empfiehlt, dass die vier Dimensionen des Service Management berücksichtigt werden?",
+        "answers": [
+            {"answer": "Ganzheitlich denken und arbeiten", "correct": true},
+            {"answer": "Iterative Weiterentwicklung mit Feedback", "correct": false},
+            {"answer": "Wertorientierung", "correct": false},
+            {"answer": "Auf Einfachheit und Praktikabilität achten", "correct": false}
+        ]
+    },
+    {
+        "question": "Was würde durch die „Service Request Management Practice“ unterstützt werden?",
+        "answers": [
+            {"answer": "Eine Anfrage zur Autorisierung eines Change, der Auswirkung auf einen Service haben könnte", "correct": false},
+            {"answer": "Eine Anfrage eines Anwenders für eine Aktion, die ein normaler Bestandteil der Servicebereitstellung ist", "correct": true},
+            {"answer": "Eine Anfrage zur Wiederherstellung eines Service nach einer Serviceunterbrechung", "correct": false},
+            {"answer": "Eine Anfrage zur Untersuchung der Ursache mehrerer miteinander verwandter Incidents", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Practice ist die Verantwortlichkeit eines jeden Organisationsmitglieds?",
+        "answers": [
+            {"answer": "Service Level Management", "correct": false},
+            {"answer": "Change Control", "correct": false},
+            {"answer": "Problem Management", "correct": false},
+            {"answer": "Continual Improvement", "correct": true}
+        ]
+    },
+    {
+        "question": "Identifizieren Sie das fehlende Wort im folgenden Satz: Der Zweck der „Information Security Management Practice“ ist, die Informationen der Organisation [?] .",
+        "answers": [
+            {"answer": "zu speichern", "correct": false},
+            {"answer": "bereitzustellen", "correct": false},
+            {"answer": "zu prüfen", "correct": false},
+            {"answer": "zu schützen", "correct": true}
+        ]
+    },
+    {
+        "question": "Welches Grundprinzip empfiehlt, vor der Entscheidung darüber, was erneut verwendet werden kann, zunächst Daten zu sammeln?",
+        "answers": [
+            {"answer": "Wertorientierung", "correct": false},
+            {"answer": "Dort beginnen, wo man steht", "correct": true},
+            {"answer": "Auf Einfachheit und Praktikabilität achten", "correct": false},
+            {"answer": "Iterative Weiterentwicklung mit Feedback", "correct": false}
+        ]
+    },
+    {
+        "question": "Was ist normalerweise NICHT im Incident Management enthalten?",
+        "answers": [
+            {"answer": "Skripte zur Sammlung erster Informationen zu Incidents", "correct": false},
+            {"answer": "Formalisierte Verfahren zur Erfassung von Incidents", "correct": false},
+            {"answer": "Detaillierte Verfahren für die Diagnose von Incidents", "correct": true},
+            {"answer": "Die Nutzung von Spezialwissen für komplizierte Incidents", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Aussage beschreibt das Wesen der Grundprinzipien?",
+        "answers": [
+            {"answer": "Grundprinzipien können eine Organisation in allen Situationen leiten", "correct": true},
+            {"answer": "Jedes Grundprinzip fordert spezifische Aktionen und Entscheidungen", "correct": false},
+            {"answer": "Eine Organisation wählt und übernimmt nur eines der sieben Grundprinzipien", "correct": false},
+            {"answer": "Grundprinzipien beschreiben die Prozesse, die alle Organisationen übernehmen müssen", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Aussage über eine Change-Autorität ist RICHTIG?",
+        "answers": [
+            {"answer": "Eine einzelne Change-Autorität sollte zugewiesen werden, um alle Arten von Changes und Change-Modellen zu autorisieren", "correct": false},
+            {"answer": "Eine Change-Autorität sollte für jede Art von Change und Change-Modell zugewiesen werden", "correct": true},
+            {"answer": "Normale Changes sind vorab autorisiert und erfordern keine Change-Autorität", "correct": false},
+            {"answer": "Notfall-Changes können ohne Autorisierung von einer Change-Autorität implementiert werden", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Practice verfolgt den Zweck, neue und geänderte Services und Funktionen zur Verfügung zu stellen?",
+        "answers": [
+            {"answer": "Change Control", "correct": false},
+            {"answer": "Service Request Management", "correct": false},
+            {"answer": "Release Management", "correct": true},
+            {"answer": "Deployment Management", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Wertschöpfungskettenaktivität stellt sicher, dass Beteiligte die Vision der Organisation verstehen?",
+        "answers": [
+            {"answer": "Verbesserung", "correct": false},
+            {"answer": "Planung", "correct": true},
+            {"answer": "Bereitstellung und Support", "correct": false},
+            {"answer": "Erhalten/Erstellen", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Aussage zu den Aktivitäten der Wertschöpfungskette ist RICHTIG?",
+        "answers": [
+            {"answer": "Jede Practice gehört zu einer bestimmten Aktivität der Wertschöpfungskette", "correct": false},
+            {"answer": "Eine bestimmte Kombination von Aktivitäten der Wertschöpfungskette und Practices bildet eine Servicebeziehung", "correct": false},
+            {"answer": "Aktivitäten der Wertschöpfungskette bilden einen einzelnen Workflow, der Wertschöpfung ermöglicht", "correct": false},
+            {"answer": "Jede Aktivität der Wertschöpfungskette trägt zur Wertschöpfungskette bei, indem sie bestimmte Inputs in Outputs umwandelt", "correct": true}
+        ]
+    },
+    {
+        "question": "Welchen Zweck verfolgt die „Supplier Management Practice“?",
+        "answers": [
+            {"answer": "Sicherstellen, dass die Lieferanten der Organisation und ihre Leistung angemessen gemanagt werden, um die nahtlose Bereitstellung von Qualitätsprodukten und -services zu unterstützen", "correct": true},
+            {"answer": "Anpassen der Practices und Services der Organisation an sich ändernde Geschäftsanforderungen durch die kontinuierliche Identifizierung und Verbesserung von Services", "correct": false},
+            {"answer": "Sicherstellen, dass die Lieferanten der Organisation und ihre Performances auf strategischer und taktischer Ebene durch koordinierte Marketing-, Verkaufs- und Bereitstellungsaktivitäten angemessen gemanagt werden", "correct": false},
+            {"answer": "Sicherstellen, dass jederzeit und überall genaue und zuverlässige Informationen über die Konfiguration von Services der Lieferanten verfügbar sind", "correct": false}
+        ]
+    },
+    {
+        "question": "Welches sind die zwei Arten von Kosten, die ein Servicekonsument beurteilen sollte?",
+        "answers": [
+            {"answer": "Der Preis des Service und die Kosten der Erstellung des Service", "correct": false},
+            {"answer": "Die Kosten, die durch den Service entfallen, und die Kosten, die durch den Service auferlegt werden", "correct": true},
+            {"answer": "Die Kosten der Bereitstellung des Service und die Kosten der Verbesserung des Service", "correct": false},
+            {"answer": "Die Kosten der Software und die Kosten der Hardware", "correct": false}
+        ]
+    },
+    {
+        "question": "Welchen Zweck verfolgt die „Service Desk Practice“?",
+        "answers": [
+            {"answer": "Reduzieren der Wahrscheinlichkeit und der Auswirkung von Incidents durch Identifizierung tatsächlicher und potenzieller Ursachen von Incidents", "correct": false},
+            {"answer": "Maximieren der Anzahl erfolgreicher IT-Changes indem sichergestellt wird, dass Risiken richtig bewertet werden", "correct": false},
+            {"answer": "Erfassen der Nachfrage nach der Lösung von Incidents und Service Requests (Serviceanfragen)", "correct": true},
+            {"answer": "Festlegen klarer, geschäftsbasierter Ziele für die Serviceleistung", "correct": false}
+        ]
+    },
+    {
+        "question": "Wie sollte eine Organisation Methoden der ständigen Verbesserung übernehmen?",
+        "answers": [
+            {"answer": "Für jede von der Organisation implementierte Verbesserung eine neue Methode verwenden", "correct": false},
+            {"answer": "Für die Arten von Verbesserung, welche die Organisation umsetzt, einige Schlüsselmethoden auswählen", "correct": true},
+            {"answer": "Die Fähigkeit aufbauen, so viele Verbesserungsmethoden wie möglich zu verwenden", "correct": false},
+            {"answer": "Für alle Verbesserungen, welche die Organisation implementiert, jeweils eine einzelne Methode auswählen", "correct": false}
+        ]
+    },
+    {
+        "question": "Welches ITIL-Konzept beschreibt Governance?",
+        "answers": [
+            {"answer": "Die sieben Grundprinzipien", "correct": false},
+            {"answer": "Die vier Dimensionen des Service Management", "correct": false},
+            {"answer": "Die Service-Wertschöpfungskette", "correct": false},
+            {"answer": "Das Servicewertsystem", "correct": true}
+        ]
+    },
+    {
+        "question": "Was ist eine Empfehlung der „Service Desk Practice“?",
+        "answers": [
+            {"answer": "Service Desks sollten den Einsatz von Automatisierung vermeiden", "correct": false},
+            {"answer": "Service Desks sollten stark spezialisiert sein", "correct": false},
+            {"answer": "Service Desks sollten die Organisation als Ganzes verstehen", "correct": true},
+            {"answer": "Service Desks sollten ein physisches Team an einem einzelnen festen Standort sein", "correct": false}
+        ]
+    },
+    {
+        "question": "Welches Grundprinzip empfiehlt, Aufgaben in kleinere, handlichere Schritte zu unterteilen, die in einem übersichtlichen Zeitrahmen ausgeführt und abgeschlossen werden können?",
+        "answers": [
+            {"answer": "Wertorientierung", "correct": false},
+            {"answer": "Dort beginnen, wo man steht", "correct": false},
+            {"answer": "Iterative Weiterentwicklung mit Feedback", "correct": true},
+            {"answer": "Zusammenarbeiten und Transparenz fördern", "correct": false}
+        ]
+    },
+    {
+        "question": "Was ist ein Standard-Change?",
+        "answers": [
+            {"answer": "Ein Change, der wohlverstanden, umfassend dokumentiert und vorab autorisiert ist", "correct": true},
+            {"answer": "Ein Change, der von einer Change-Autorität bewertet, autorisiert und geplant werden muss", "correct": false},
+            {"answer": "Ein Change, für den eine Risikobewertung erforderlich ist, weil er zur Lösung eines Incidents erforderlich ist", "correct": false},
+            {"answer": "Ein Change, der im Rahmen von „Continual Improvement“ bewertet, autorisiert und geplant wird", "correct": false}
+        ]
+    },
+    {
+        "question": "Was passiert, wenn ein Workaround (Umgehungslösung) zur dauerhaften Lösung für ein Problem wird, das nicht kosteneffektiv gelöst werden kann?",
+        "answers": [
+            {"answer": "Ein Change-Request wird an die Change Control gesendet", "correct": false},
+            {"answer": "Das Problem Management stellt den Service so bald wie möglich wieder her", "correct": false},
+            {"answer": "Das Problem verbleibt im Status „Known Error“", "correct": true},
+            {"answer": "Der Problem Record wird gelöscht", "correct": false}
+        ]
+    },
+    {
+        "question": "Wie lautet die Definition von Change?",
+        "answers": [
+            {"answer": "Hinzufügen, Modifizieren oder Entfernen eines Elements, das direkte oder indirekte Auswirkungen auf Services haben könnte", "correct": true},
+            {"answer": "Sicherstellen, dass genaue und zuverlässige Informationen über die Konfiguration von Services verfügbar sind", "correct": false},
+            {"answer": "Zurverfügungstellen neuer und geänderter Services und Funktionen", "correct": false},
+            {"answer": "Bereitstellen neuer oder geänderter Hardware, Software oder anderer Servicekomponenten in Live-Umgebungen", "correct": false}
+        ]
+    },
+    {
+        "question": "Wie lautet die Definition eines Event?",
+        "answers": [
+            {"answer": "Jede Statusänderung, die für das Management eines Service oder eines anderen Configuration Item (CI) von Bedeutung ist", "correct": true},
+            {"answer": "Alle Komponenten, die gemanagt werden müssen, um einen IT Service bereitstellen zu können", "correct": false},
+            {"answer": "Eine nicht geplante Unterbrechung eines Service oder eine Qualitätsminderung eines Service", "correct": false},
+            {"answer": "Jede finanziell wertvolle Komponente, die zur Bereitstellung eines IT-Produkts oder Erbringung eines IT Service beitragen kann", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Aussage beschreibt Ergebnisse?",
+        "answers": [
+            {"answer": "Materielle oder immaterielle Liefergegenstände", "correct": false},
+            {"answer": "Funktionalität, die von einem Produkt oder Service angeboten wird", "correct": false},
+            {"answer": "Von einem Stakeholder gewünschte Ergebnisse", "correct": true},
+            {"answer": "Konfiguration der Ressourcen einer Organisation", "correct": false}
+        ]
+    },
+    {
+        "question": "Was ist KEIN zentraler Fokus der Dimension „Informationen und Technologie“?",
+        "answers": [
+            {"answer": "Security und Compliance", "correct": false},
+            {"answer": "Kommunikationssysteme und Wissensdatenbanken", "correct": false},
+            {"answer": "Workflow-Management und Bestandssysteme", "correct": false},
+            {"answer": "Rollen und Verantwortlichkeiten", "correct": true}
+        ]
+    },
+    {
+        "question": "Welche Practices sind normalerweise an der Implementierung einer Problemlösung beteiligt? 1. Continual Improvement 2. Service Request Management 3. Service Level Management 4. Change Control",
+        "answers": [
+            {"answer": "1 und 2", "correct": false},
+            {"answer": "2 und 3", "correct": false},
+            {"answer": "3 und 4", "correct": false},
+            {"answer": "1 und 4", "correct": true}
+        ]
+    },
+    {
+        "question": "Was ist eine zentrale Überlegung des Grundprinzips „Auf Einfachheit und Praktikabilität achten“?",
+        "answers": [
+            {"answer": "Versuchen, eine Lösung für jede Ausnahme zu erstellen", "correct": false},
+            {"answer": "Verstehen, wie jedes Element zur Wertschöpfung beiträgt", "correct": true},
+            {"answer": "Die widerstreitenden Zielsetzungen verschiedener Stakeholder ignorieren", "correct": false},
+            {"answer": "Mit einer komplexen Lösung beginnen, dann vereinfachen", "correct": false}
+        ]
+    },
+    {
+        "question": "Was sollte zuerst getan werden, wenn das Grundprinzip „Wertorientierung“ angewendet wird?",
+        "answers": [
+            {"answer": "Die Ergebnisse identifizieren, die der Service unterstützt", "correct": false},
+            {"answer": "Alle am Service beteiligten Lieferanten und Partner identifizieren", "correct": false},
+            {"answer": "Sich in jeder Situation bewusst sein, wer der Servicekonsument ist", "correct": true},
+            {"answer": "Die Kosten für die Bereitstellung des Service ermitteln", "correct": false}
+        ]
+    },
+    {
+        "question": "Ein Service Provider beschreibt ein Paket, das einen Laptop mit Software, Lizenzen und Support umfasst. Wofür ist dieses Paket ein Beispiel?",
+        "answers": [
+            {"answer": "Wert", "correct": false},
+            {"answer": "Ein Ergebnis", "correct": false},
+            {"answer": "Warranty", "correct": false},
+            {"answer": "Ein Serviceangebot", "correct": true}
+        ]
+    },
+    {
+        "question": "Wie lautet die Definition von Warranty?",
+        "answers": [
+            {"answer": "Ein materieller oder immaterieller Liefergegenstand, der durch die Ausführung einer Aktivität geschaffen wird", "correct": false},
+            {"answer": "Die Zusicherung, dass ein Produkt oder Service den vereinbarten Anforderungen entspricht", "correct": true},
+            {"answer": "Ein mögliches Event, das zu einem Schaden oder Verlust führen oder das Erreichen von Zielen erschweren könnte", "correct": false},
+            {"answer": "Die Funktionalität, die von einem Produkt oder Service angeboten wird, um einem bestimmten Bedürfnis gerecht zu werden", "correct": false}
+        ]
+    },
+    {
+        "question": "Welcher ITIL-Prozess oder welche ITIL-Funktion bearbeitet Störungen und Anwenderfragen?",
+        "answers": [
+            {"answer": "Availabilily Management", "correct": false},
+            {"answer": "Service Level Management", "correct": false},
+            {"answer": "Problem Management", "correct": false},
+            {"answer": "Service Desk", "correct": true}
+        ]
+    },
+    {
+        "question": "Worin besteht der Unterschied zwischen einem bekannten Fehler (Known Error) und einem Problem?",
+        "answers": [
+            {"answer": "Bei einem bekannten Fehler (Known Error) ist die zugrundeliegende Ursache bekannt; bei einem Problem nicht", "correct": true},
+            {"answer": "Bei einem bekannten Fehler (Known Error) ist die Rede von einem Fehler in der IT-Infrastruktur; bei einem Problem nicht", "correct": false},
+            {"answer": "Ein bekannter Fehler (Known Error) ist immer die Folge eines Zwischenfalls (Incident); ein Problem nicht immer", "correct": false},
+            {"answer": "Bei einem Problem wurden die relevanten Konfigurations-Elemente (Cl) bereits bestimmt; bei einem bekannten Fehler(Known Error) nicht", "correct": false}
+        ]
+    },
+    {
+        "question": "Wer ist verantwortlich für die Pflege des Änderungszeitplanes?",
+        "answers": [
+            {"answer": "Change Manager", "correct": true},
+            {"answer": "Change Advisory Board(CAB)", "correct": false},
+            {"answer": "Kunde (Customer)", "correct": false},
+            {"answer": "IT Management", "correct": false}
+        ]
+    },
+    {
+        "question": "Wer ist innerhalb einer Organisation befugt, mit der IT-Abteilung ein Service Level Agreement (SLA) über die Lieferung von IT-Dienstleistungen abzuschließen?",
+        "answers": [
+            {"answer": "Service Level Manager", "correct": false},
+            {"answer": "Anwender der IT -{Hilfs)mittel", "correct": false},
+            {"answer": "ITIL-Prozesseigentümer", "correct": false},
+            {"answer": "Auftraggeber der IT-Abteilung auf Kundenseite", "correct": true}
+        ]
+    },
+    {
+        "question": "Wo werden Kapazitätsanforderungen definiert?",
+        "answers": [
+            {"answer": "Im Kapazitätsplan (Capacity Plan)", "correct": true},
+            {"answer": "Im Service-Optimierungs-Programm (Service Improvement Plan Programm, SIP)", "correct": false},
+            {"answer": "Im Service Qualitätsplan (Service Quality Plan)", "correct": false},
+            {"answer": "In den Service-Anforderungen (Service Level Requirements)", "correct": false}
+        ]
+    },
+    {
+        "question": "Wenn in einer Desktop- oder Client-Server-Umgebung eine neue Version eines Softwarepakets installiert wird, kann sich diese Installation auf andere, bereits installierte Softwarepakete dieser Umgebung auswirken. Manchmal müssen dann die anderen Softwarepakete ebenfalls neu installiert werden. Welcher ITIL-Prozess überwacht, ob bestehende Softwarepakete neu installiert und getestet werden müssen, wenn neue Software installiert wird?",
+        "answers": [
+            {"answer": "Change Management", "correct": false},
+            {"answer": "IT Service Continuity Management", "correct": false},
+            {"answer": "Problem Management", "correct": false},
+            {"answer": "Release Management", "correct": true}
+        ]
+    },
+    {
+        "question": "Welcher ITIL-Prozess soll zuverlässige und genaue Informationen über die IT-Infrastruktur erteilen?",
+        "answers": [
+            {"answer": "Capacity Management", "correct": false},
+            {"answer": "Change Management", "correct": false},
+            {"answer": "Configuration Management", "correct": true},
+            {"answer": "Service Level Management", "correct": false}
+        ]
+    },
+    {
+        "question": "Welcher der nachstehenden Begriffe drückt das Maß aus, in dem ein Zwischenfall (Incident) zu einer Abweichung vom normalen Serviceniveau führt?",
+        "answers": [
+            {"answer": "Eskalation", "correct": false},
+            {"answer": "Auswirkung (Impact)", "correct": false},
+            {"answer": "Priorität", "correct": true},
+            {"answer": "Dringlichkeit (Urgency)", "correct": false}
+        ]
+    },
+    {
+        "question": "Problem Control (Problem-Behandlung) ist ein Unterprozess im Problem Management. Die erste Aktivität innerhalb Problem Control ist es, Probleme zu identifizieren und aufzuzeichnen. Welcher Schritt sollte bei der Identifikation eines Problems als erster unternommen werden?",
+        "answers": [
+            {"answer": "Analysieren aller bestehenden Zwischenfälle (Incidents)", "correct": false},
+            {"answer": "Klassifizierung und Priorisierung der Probleme", "correct": true},
+            {"answer": "Lösen von Problemen", "correct": false},
+            {"answer": "Managementinformationen zur Verfügung stellen", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche der folgenden Informationen über einen bereits ausgeführten Change ist im Change Management Teil der Berichterstattung an die Leitung der Organisation?",
+        "answers": [
+            {"answer": "Anzahl der Zwischenfälle (Incident) bezogen auf die durchgeführten Changes", "correct": false},
+            {"answer": "Anzahl gelösten Zwischenfälle (Incident) aufgrund durchgeführter Changes", "correct": true},
+            {"answer": "Falsch registrierte Konfigurations-Elemente (Cls)", "correct": false},
+            {"answer": "Aufbau und Zusammenstellung der Konfigurations-Elemente (Cl)", "correct": false}
+        ]
+    },
+    {
+        "question": "Welcher ITIL-Prozess liefert eine Einschätzung über die Folgen einer Unerwarteten schweren Katastrophe?",
+        "answers": [
+            {"answer": "Change Management", "correct": false},
+            {"answer": "IT Service Continuity Management", "correct": true},
+            {"answer": "Problem Management", "correct": false},
+            {"answer": "Service Level Management", "correct": false}
+        ]
+    },
+    {
+        "question": "Wie lautet die Beschreibung des Begriffs Vertraulichkeit {Confidentiality} als Teil des Prozesses Security Management?",
+        "answers": [
+            {"answer": "Schutz von Daten vor unbefugtem Zugriff und deren Verwendung", "correct": true},
+            {"answer": "Möglichkeit zum jederzeitigen Zugriff auf die Daten", "correct": false},
+            {"answer": "Fähigkeit zur Kontrolle der Daten auf deren Richtigkeit", "correct": false},
+            {"answer": "Korrektheit der Daten", "correct": false}
+        ]
+    },
+    {
+        "question": "Aus welcher Quelle können statistische Daten abgerufen werden, die Einblick in den Aufbau und die Zusammensetzung der IT-Infrastruktur geben?",
+        "answers": [
+            {"answer": "Kapazitäts-Datenbank (Capacity Database, CDB)", "correct": false},
+            {"answer": "Konfigurations-Management-Datenbank (Configuration Management Database, CMDB)", "correct": true},
+            {"answer": "Maßgebliches Hardware-Lager (Definitive Hardware Store, DHS)", "correct": false},
+            {"answer": "Definitive Software Bibliothek (Definitive Software Library, DSL)", "correct": false}
+        ]
+    },
+    {
+        "question": "Was ist eine andere Bezeichnung für Uptime?",
+        "answers": [
+            {"answer": "Durchschnittliche Zeit zwischen zwei Ausfallen (Mean Time Between Failures, MTBF)", "correct": true},
+            {"answer": "Durchschnittliche Zeit zur Wiederherstellung (Mean Time To Repair, MTIR)", "correct": false},
+            {"answer": "Durchschnittliche Zeit zwischen System-Zwischenfällen (Mean Time Between System Incidents, MTBSI)", "correct": false},
+            {"answer": "Verhältnis zwischen MTBF und MTBSI", "correct": false}
+        ]
+    },
+    {
+        "question": "Was ist normalerweise keine Aktivität des Service Desks?",
+        "answers": [
+            {"answer": "Abwicklung von (Standard) Requests for Change (RFCs)", "correct": false},
+            {"answer": "Abwicklung von Reklamationen bezüglich der Dienstleistungen der IT-Organisation", "correct": false},
+            {"answer": "Erforschung der zugrunde liegenden Ursache von Zwischenfällen (Incident)", "correct": true},
+            {"answer": "Zur Verfügung Stellung von Informationen über Produkte und Dienstleistungen", "correct": false}
+        ]
+    },
+    {
+        "question": "Welches der folgenden Dokumente ist Teil eines taktischen Prozesses?",
+        "answers": [
+            {"answer": "Benutzerhandbuch einer Anwendung", "correct": true},
+            {"answer": "Rundschreiben des Service Desks bezüglich einer Anwendung", "correct": false},
+            {"answer": "Besprechung eines Requests für Change (RFC) in Bezug auf die Erweiterung einer Anwendung mit dem Antragsteller dieses RFCs", "correct": false},
+            {"answer": "Vereinbarungen über den Verfügbarkeitsprozentsatz einer Anwendung", "correct": false}
+        ]
+    },
+    {
+        "question": "Der PC eines IT-Anwenders stürzt ab. Dies ist nicht das erste Mal, dass dieser Anwender mit seinem PC Probleme hatte. Schon vor drei Monaten stürzte der PC ebenfalls ab. Der Anwender teilt den Absturz dem Service Desk mit. Welche Art Aufzeichnung sollte für den Anruf des Anwenders gemacht werden?",
+        "answers": [
+            {"answer": "Zwischenfall (Incident)", "correct": true},
+            {"answer": "Bekannter Fehler (Known Error)", "correct": false},
+            {"answer": "Problem", "correct": false},
+            {"answer": "Request for Change (RFC)", "correct": false}
+        ]
+    },
+    {
+        "question": "Wie bezeichnet man laut ITIL ein Ereignis, das nicht zu den Standardoperationen eines IT-Services gehört?",
+        "answers": [
+            {"answer": "Zwischenfall(Incident)", "correct": false},
+            {"answer": "Problem", "correct": false},
+            {"answer": "Request for Change (RFC)", "correct": true},
+            {"answer": "Umgehungslösung (Workaround)", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche der Antworten spiegelt eine Aktivität im Rahmen des proaktiven Problem Management wieder?",
+        "answers": [
+            {"answer": "Behandlung von Requests for Change (RFC)", "correct": false},
+            {"answer": "Trendanalyse und Identifizierung von möglichen Zwischenfallen (Incidents) und Problemen", "correct": true},
+            {"answer": "Nachbehandlung aller Zwischenfälle und Unterbrechungen", "correct": false},
+            {"answer": "Minimalisierung von Unterbrechungen auf Services, die durch Veränderungen in der IT -Umgebung zurückzuführen sind", "correct": false}
+        ]
+    },
+    {
+        "question": "Welcher ITIL-Prozess oder ITIL-Funktion liefert die meisten inhaltlichen Beiträge, aufgrund derer die Konfigurations-Elemente (CIs) in der Configuration Management Datenbank (CMDB) aktualisiert werden müssen?",
+        "answers": [
+            {"answer": "Change Management", "correct": true},
+            {"answer": "Service Desk", "correct": false},
+            {"answer": "Incident Management", "correct": false},
+            {"answer": "Problem Management", "correct": false}
+        ]
+    },
+    {
+        "question": "Eine der Aktivitäten im Configuration Management bezeichnet man als Control. Was beinhaltet diese Aktivität?",
+        "answers": [
+            {"answer": "Update der Konfigurationselemente (Configuration Items, CI) und deren Beziehungen in der Konfigurations-Management-Datenbank (Configuration Management Database, CMDB)", "correct": false},
+            {"answer": "Prüfung, ob die CI und deren Attribute richtig in der CMDB angegeben sind", "correct": true},
+            {"answer": "Installation neuer CI in der Betriebsumgebung", "correct": false},
+            {"answer": "Inventarisierung der CI", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Aktivität gehört zum Prozess Availability Management?",
+        "answers": [
+            {"answer": "Klassifizierung von Requests for Change (RFC)", "correct": false},
+            {"answer": "Bestimmung der Rangfolge von Auswirkungen für Zwischenfälle (impact classification)", "correct": false},
+            {"answer": "Identifizierung von Problemen in Bezug auf die Verfügbarkeit (Availability) von IT Services", "correct": false},
+            {"answer": "Messung der Verfügbarkeit (Availability) von IT-Services", "correct": true}
+        ]
+    },
+    {
+        "question": "In welchem ITIL-Prozess wird mit den Kunden über die Kosten der IT-Services gesprochen?",
+        "answers": [
+            {"answer": "Availability Management", "correct": false},
+            {"answer": "Capacity Management", "correct": false},
+            {"answer": "Financial Management for IT Services", "correct": false},
+            {"answer": "Service Level Management", "correct": true}
+        ]
+    },
+    {
+        "question": "Welches Attribut in der Konfigurations-Management-Datenbank (Configuration Management Database, CMDB) hilft dabei, sich zu informieren, welche der Konfigurations-Elemente (Configuration Items, CI) sich zu einer bestimmten Zeit in Wartung befinden?",
+        "answers": [
+            {"answer": "Kaufdatum", "correct": false},
+            {"answer": "Eigentümer", "correct": false},
+            {"answer": "Standort", "correct": false},
+            {"answer": "Status", "correct": true}
+        ]
+    },
+    {
+        "question": "Welche der folgenden Änderungen (Changes) muss durch das Change Management autorisiert werden?",
+        "answers": [
+            {"answer": "Dateneingabe in eine Datenbank durch Anwender", "correct": false},
+            {"answer": "Änderung eines Kennworts", "correct": false},
+            {"answer": "Hinzufügen eines neuen Anwenders in ein System", "correct": false},
+            {"answer": "Umzug eines Druckers", "correct": false}
+        ]
+    },
+    {
+        "question": "Bei einem Server haben sich zwei Zwischenfälle (Incidents) ereignet. Es scheint, dass der Server durch seine vielen Verbindungen überlastet ist. Welche Art Aktion sollte ein Availability Manager in diesem Fall durchführen?",
+        "answers": [
+            {"answer": "Er bittet den Capacity Manager, die Kapazität des Servers zu vergrößern", "correct": true},
+            {"answer": "Er bittet den Problem Manager, das Problem .schnellstens zu untersuchen", "correct": false},
+            {"answer": "Er bittet den Security Manager zu untersuchen, ob evtl. zu viele Berechtigungen erteilt wurden", "correct": false},
+            {"answer": "Er bittet den Service Level Manager, die Vereinbarungen in den Service Level Agreements (SLAs) zu überprüfen zu revidieren", "correct": false}
+        ]
+    },
+    {
+        "question": "Welcher ITIL-Prozess enthält als eine seiner Aktivitäten. Zwischenfälle (Incident) mit bekannten (dokumentierten) Lösungen zu vergleichen?",
+        "answers": [
+            {"answer": "Change Management", "correct": false},
+            {"answer": "Incident Management", "correct": true},
+            {"answer": "Problem Management", "correct": false},
+            {"answer": "Configuration Management", "correct": false}
+        ]
+    },
+    {
+        "question": "Welchen Status erhält ein Problem, wenn die Ursache dieses Problems bekannt ist?",
+        "answers": [
+            {"answer": "'Zwischenfall' (Incident)", "correct": false},
+            {"answer": "'Bekannter Fehler' (Known Error)", "correct": true},
+            {"answer": "'Gelöst'", "correct": false},
+            {"answer": "'Request for Change' (RFC)", "correct": false}
+        ]
+    },
+    {
+        "question": "Nachdem eine Änderung (Change) vorgenommen wurde, findet eine Bewertung statt. Wie bezeichnet ITIL diese Bewertung?",
+        "answers": [
+            {"answer": "Zeitplan für Änderungen (Forward Schedule of Changes, FSC)", "correct": false},
+            {"answer": "Review nach der Implementierung (Post Implementation Review, PIR)", "correct": true},
+            {"answer": "Service-Verbesserungsplan (Service Improvement Programme, SIP)", "correct": false},
+            {"answer": "Service-Anforderungen (Service Level Requirements)", "correct": false}
+        ]
+    },
+    {
+        "question": "Welcher ITIL-Prozess ist für die Registrierung des neuen Konfigurations-Elemente (Configuration Items, CI) verantwortlich?",
+        "answers": [
+            {"answer": "Change Management", "correct": false},
+            {"answer": "Configuration Management", "correct": true},
+            {"answer": "Incident Management", "correct": false},
+            {"answer": "Problem Management", "correct": false}
+        ]
+    },
+    {
+        "question": "Wo werden Software Releases gespeichert oder gelagert?",
+        "answers": [
+            {"answer": "Kapazitäts-Datenbank (Capacity Database, CDB)", "correct": false},
+            {"answer": "Konfigurations-Management-Datenbank (Configuration Management Database, CMDB)", "correct": false},
+            {"answer": "Maßgebliches Hardware-Lager (Definitive Hardware Store, OHS)", "correct": false},
+            {"answer": "Definitive Software Bibliothek (Definitive Software Library, DSL)", "correct": true}
+        ]
+    },
+    {
+        "question": "Was aus dem Folgenden wird in einem Service Level Agreement (SLA) aufgenommen?",
+        "answers": [
+            {"answer": "Absprachen über die zu liefernden Services", "correct": true},
+            {"answer": "Verfügbarkeitsstatistiken über den zurückliegenden Zeitraum", "correct": false},
+            {"answer": "Aktionsplan zum Aufsetzen des Prozesses Service Level Management", "correct": false},
+            {"answer": "Detaillierte technische Beschreibungen über ein Netzwerk-Protokoll", "correct": false}
+        ]
+    },
+    {
+        "question": "Welcher ITIL-Prozess stellt sicher, dass der IT-Service schnellstmöglichst wiederhergestellt wird?",
+        "answers": [
+            {"answer": "Change Management", "correct": false},
+            {"answer": "Incident Management", "correct": true},
+            {"answer": "Problem Management", "correct": false},
+            {"answer": "Service Level Management", "correct": false}
+        ]
+    },
+    {
+        "question": "Welche Informationen liefert der Prozess Financial Management for IT Services dem Service Level Management?",
+        "answers": [
+            {"answer": "Informationen über die Verfügbarkeit (Availability) von IT Services in einem bestimmten Zeitraum (Periode)", "correct": false},
+            {"answer": "Kosten des Financial Management Systems", "correct": false},
+            {"answer": "Gesamtkosten der Netzwerk-Administration", "correct": false},
+            {"answer": "Ausgaben für IT Services pro Kunde", "correct": true}
+        ]
+    },
+    {
+        "question": "Welche Verantwortung hat der Security Manager bei der Abfassung eines neuen Service Level Agreements (SLA)?",
+        "answers": [
+            {"answer": "Übersetzung der Service-Anforderungen (Service Level Requirements) im Sinne des Datenschutzes", "correct": false},
+            {"answer": "Bestimmung der elementaren Sicherheitsanforderungen (Security Baseline) im Service-Katalog (Service Catalogue)", "correct": true},
+            {"answer": "Richtlinien für den Abschnitt 'Security' im SLA zur Verfügung zu stellen", "correct": false},
+            {"answer": "Berichterstattung über die technische Verfügbarkeit (Availability) von Sicherheitskomponenten", "correct": false}
+        ]
+    },
+    {
+        "question": "Welcher ITIL-Prozess übernimmt die Koordination über die Verteilung eines neuen Software-Releases?",
+        "answers": [
+            {"answer": "Change Management", "correct": false},
+            {"answer": "Configuration Management", "correct": false},
+            {"answer": "Release Management", "correct": true},
+            {"answer": "Service Level Management", "correct": false}
+        ]
+    },
+    {
+        "question": "Welcher ITIL -Prozess stellt eine Analyse über Gefährdungen und Abhängigkeiten bezüglich IT-Services zur Verfügung, aufgrund derer dann geeignete Gegenmaßnahmen festgelegt werden?",
+        "answers": [
+            {"answer": "Availability Management", "correct": true},
+            {"answer": "IT Service Continuity Management", "correct": false},
+            {"answer": "Problem Management", "correct": false},
+            {"answer": "Service Level Management", "correct": false}
+        ]
+    },
+    {
+        "question": "Mit welcher Aktivität innerhalb des Capacity Managements wird der Bedarf an Kapazität festgestellt?",
+        "answers": [
+            {"answer": "Applikationsanpassung (Applikation Sizing)", "correct": false},
+            {"answer": "Bedarfsmanagement (Demand Management)", "correct": true},
+            {"answer": "Modellierung (Modeling)", "correct": false},
+            {"answer": "Systemeinstellung (Tuning)", "correct": false}
+        ]
+    },
+    {
+        "question": "Welcher ITIL-Prozess ist für das Erstellen eines Leistungsverrechnungssystems verantwortlich?",
+        "answers": [
+            {"answer": "Availability Management", "correct": false},
+            {"answer": "Capacity Management", "correct": false},
+            {"answer": "Financial Management for IT Services", "correct": true},
+            {"answer": "Service Level Management", "correct": false}
+        ]
+    },
+    {
+        "question": "Was ist IT Service Management?",
+        "answers": [
+            {"answer": "Effektive und effiziente Steuerung der Qualität der IT Services", "correct": false},
+            {"answer": "Organisation der Verwaltung der IT-Infrastruktur gemäß den Methoden in der IT Infrastructure Library", "correct": true},
+            {"answer": "Prozessorientierte Verwaltung der IT-Infrastruktur, so dass die IT-Organisation dem Kunden IT-Produkte auf professionelle Art und Weise liefern kann", "correct": false},
+            {"answer": "Verständnis für die IT-Services einer größeren Öffentlichkeit zugänglich machen und fördern", "correct": false}
+        ]
+    }
+]
