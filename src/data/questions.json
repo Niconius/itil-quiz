@@ -765,7 +765,7 @@
         ]
     },
     {
-        "question": "Wie trägt das Engagement der Kunden zur „Service Level Management Practice“ bei?",
+        "question": "Wie trägt das Engagement der Kunden zur „Service Level Management Practice“ bei? 1. Es erfasst Informationen, auf denen Messgrößen basieren können 2. Es stellt sicher, dass die Organisation definierte Service Levels erfüllt 3. Es definiert die Workflows für Service Requests (Serviceanfragen) 4. Es unterstützt Gespräche über den Fortschritt",
         "answers": [
             {"answer": "1 und 2", "correct": false},
             {"answer": "2 und 3", "correct": false},
