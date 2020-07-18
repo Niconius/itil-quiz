@@ -87,6 +87,9 @@ export default class App extends React.Component<IProps, IState> {
                             <em>Dark Mode {this.state.darkMode ? "an" : "aus"}</em>
                         </div>
                     </div>
+                    <div id="versionNumberBlock">
+                        <p>Version: 1.1</p>
+                    </div>
                 </div>
             </div>
         );

@@ -1,5 +1,6 @@
 #rootContainer {
     min-height: 100vh;
+    position: relative;
 }
 
 #rootContainer.light {
@@ -33,7 +34,7 @@
     flex-direction: column;
     align-items: center;
     margin-top: 4em;
-    padding-bottom: 3em;
+    padding-bottom: 1em;
 }
 
 #questionBlock {
@@ -127,6 +128,15 @@ button:active {
     margin-top: 0.5em;
 }
 
+#versionNumberBlock {
+    color: gray;
+    font-size: smaller;
+    position: absolute;
+    bottom: 0;
+    left: calc(50% - 40px);
+    width: 80px;
+}
+
 
 
 /* CSS for dark mode */
@@ -135,7 +145,7 @@ button:active {
 .themeSwitchWrapper {
     display: flex;
     align-items: center;
-    margin-bottom: 1em;
+    margin-bottom: 4em;
     margin-top: 1.5em;
 }
 

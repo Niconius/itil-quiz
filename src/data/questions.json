@@ -686,8 +686,8 @@
     {
         "question": "Welcher ITIL -Prozess stellt eine Analyse über Gefährdungen und Abhängigkeiten bezüglich IT-Services zur Verfügung, aufgrund derer dann geeignete Gegenmaßnahmen festgelegt werden?",
         "answers": [
-            {"answer": "Availability Management", "correct": true},
-            {"answer": "IT Service Continuity Management", "correct": false},
+            {"answer": "Availability Management", "correct": false},
+            {"answer": "IT Service Continuity Management", "correct": true},
             {"answer": "Problem Management", "correct": false},
             {"answer": "Service Level Management", "correct": false}
         ]
@@ -885,8 +885,8 @@
         "question": "Wovon hängt die maximale Effizienz der „Service Request Management Practice“ ab?",
         "answers": [
             {"answer": "Lob und Beschwerden", "correct": false},
-            {"answer": "Self-Service-Tools", "correct": false},
-            {"answer": "Prozesse und Verfahren", "correct": true},
+            {"answer": "Self-Service-Tools", "correct": true},
+            {"answer": "Prozesse und Verfahren", "correct": false},
             {"answer": "Incident Management", "correct": false}
         ]
     },
